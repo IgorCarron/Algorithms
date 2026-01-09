@@ -58,3 +58,43 @@ from binary_matrix_factorization import binary_factorization_exact, binary_facto
 T, A = binary_factorization_exact(D, affine=True)
 T, A = binary_factorization_approximate(D, r=4, nonnegative_A=True, sum_to_one=True)
 ```
+
+## CKS - Compositional Kernel Search
+
+Implementation of the Compositional Kernel Search algorithm from:
+
+**"Structure Discovery in Nonparametric Regression through Compositional Kernel Search"**
+Duvenaud, Lloyd, Grosse, Tenenbaum, Ghahramani (ICML 2013)
+[arXiv:1302.4922](https://arxiv.org/abs/1302.4922)
+
+Automatic structure discovery in time series and regression data using Gaussian Processes with compositional kernels.
+
+**Files:**
+- `cks/compositional_kernel_search.py` - Main CKS implementation
+- `cks/examples.py` - Example usage and demonstrations
+
+## AMP Compressed Sensing
+
+Implementation of Approximate Message Passing for compressed sensing from:
+
+**"Probabilistic reconstruction in compressed sensing: algorithms, phase diagrams, and threshold achieving matrices"**
+Krzakala, Mézard, Sausset, Sun, Zdeborová (JSTAT 2012)
+[arXiv:1109.4424](https://arxiv.org/abs/1109.4424)
+
+Recovers sparse signals from underdetermined linear measurements using Bayesian optimal denoisers.
+
+**Features:**
+- Multiple denoisers (soft thresholding, Gauss-Bernoulli, Bernoulli)
+- AMP with Onsager correction
+- Gaussian and spatially coupled measurement matrices
+
+**Files:**
+- `amp-compressed-sensing/amp_compressed_sensing.py` - Main implementation
+
+**Usage:**
+```python
+from amp_compressed_sensing import amp_reconstruction, generate_gaussian_matrix
+
+A = generate_gaussian_matrix(M, N)
+x_hat, history = amp_reconstruction(A, y, denoiser='gauss_bernoulli', rho=0.1)
+```
