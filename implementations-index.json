@@ -3,5 +3,10 @@
     "filename": "Sparse_Johnson_Lindenstrauss_arxiv_1012_1577/README.md",
     "title": "Sparser Johnson-Lindenstrauss Transforms",
     "addedAt": "2026-01-10T15:15:53.775Z"
+  },
+  "2510.22401": {
+    "filename": "Non_Euclidean_Johnson_Lindenstrauss_arxiv_2510_22401/Non_Euclidean_Johnson_Lindenstrauss_arxiv_2510_22401.py",
+    "title": "Johnson-Lindenstrauss Lemma Beyond Euclidean Geometry",
+    "addedAt": "2026-01-10T15:37:55.728Z"
   }
 }
