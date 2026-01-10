@@ -10,9 +10,10 @@ A collection of algorithm implementations from academic papers.
 | [An Approximate Algorithm for Maximum Inner Product Search over Streaming Spar...](./Sinnamon_SMIPS_arxiv_2301_10622v1) | [2301.10622](https://arxiv.org/abs/2301.10622) | Sebastian Bruch, Franco Maria Nardini, Amir Ingber et al. |
 | [Binary Matrix Factorization](./binary-matrix-factorization) | [1401.6024](https://arxiv.org/abs/1401.6024) |  |
 | [CKS - Compositional Kernel Search](./cks) | [1302.4922](https://arxiv.org/abs/1302.4922) | Duvenaud, Lloyd, Grosse et al. |
-| [Diffusion Model Based Signal Recovery Under 1-Bit Quantization](./Diff_OneBit_arxiv_2511_12471v1) | [2511.12471v1](https://arxiv.org/abs/2511.12471v1) | Youming Chen, Zhaoqiang Liu |
+| [Diffusion Model Based Signal Recovery Under 1-Bit Quantization](./Diff_OneBit_arxiv_2511_12471v1) | [2511.12471](https://arxiv.org/abs/2511.12471) | Youming Chen, Zhaoqiang Liu |
 | [Identifying Kronecker product factorizations](./Kronecker_Factorization_arxiv_2510_25292) | [2510.25292](https://arxiv.org/abs/2510.25292) | Yannis Voet, Leonardo De Novellis |
 | [Implementation of the sketch-and-solve pipeline from arXiv:2508.14209 using C...](./sketch) | [2508.14209](https://arxiv.org/abs/2508.14209) |  |
+| [Improving Compressed Counting](./Improved_Compressed_Counting_arxiv_1205_2632v1) | [1205.2632v1](https://arxiv.org/abs/1205.2632v1) | Ping Li |
 | [Johnson-Lindenstrauss Lemma Beyond Euclidean Geometry](./Non_Euclidean_Johnson_Lindenstrauss_arxiv_2510_22401) | [2510.22401](https://arxiv.org/abs/2510.22401) | Chengyuan Deng, Jie Gao, Kevin Lu et al. |
 | [Kobo](./kobo) | N/A |  |
 | [Optimal Projections for Discriminative Dictionary Learning using the JL-lemma](./JLSPCADL_arxiv_2308_13991) | [2308.13991](https://arxiv.org/abs/2308.13991) | G. Madhuri, Atul Negi, Kaluri V. Rangarao |
