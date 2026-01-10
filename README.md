@@ -10,6 +10,7 @@ A collection of algorithm implementations from academic papers.
 | [Binary Matrix Factorization](./binary-matrix-factorization) | [1401.6024](https://arxiv.org/abs/1401.6024) |  |
 | [CKS - Compositional Kernel Search](./cks) | [1302.4922](https://arxiv.org/abs/1302.4922) | Duvenaud, Lloyd, Grosse et al. |
 | [Identifying Kronecker product factorizations](./Kronecker_Factorization_arxiv_2510_25292) | [2510.25292](https://arxiv.org/abs/2510.25292) | Yannis Voet, Leonardo De Novellis |
+| [Identifying Kronecker product factorizations](./Kronecker_Product_Factorization_arxiv_2510_25292) | [2510.25292](https://arxiv.org/abs/2510.25292) | Yannis Voet, Leonardo De Novellis |
 | [Implementation of the sketch-and-solve pipeline from arXiv:2508.14209 using C...](./sketch) | [2508.14209](https://arxiv.org/abs/2508.14209) |  |
 | [Johnson-Lindenstrauss Lemma Beyond Euclidean Geometry](./Non_Euclidean_Johnson_Lindenstrauss_arxiv_2510_22401) | [2510.22401](https://arxiv.org/abs/2510.22401) | Chengyuan Deng, Jie Gao, Kevin Lu et al. |
 | [Kobo](./kobo) | N/A |  |
