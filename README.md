@@ -98,3 +98,10 @@ from amp_compressed_sensing import amp_reconstruction, generate_gaussian_matrix
 A = generate_gaussian_matrix(M, N)
 x_hat, history = amp_reconstruction(A, y, denoiser='gauss_bernoulli', rho=0.1)
 ```
+
+
+## Implementations
+
+| Paper | ArXiv | Authors |
+| --- | --- | --- |
+| [Sparser Johnson-Lindenstrauss Transforms](./Sparse_Johnson_Lindenstrauss_arxiv_1012_1577) | [1012.1577](https://arxiv.org/abs/1012.1577) | Daniel M. Kane, Jelani Nelson |
