@@ -13,5 +13,10 @@
     "filename": "Optimization_JL_Embedding_arxiv_2412_07242/README.md",
     "title": "Optimization Can Learn Johnson Lindenstrauss Embeddings",
     "addedAt": "2026-01-10T16:17:28.087Z"
+  },
+  "2308.13991": {
+    "filename": "JLSPCADL_arxiv_2308_13991/JLSPCADL_arxiv_2308_13991.py",
+    "title": "Optimal Projections for Discriminative Dictionary Learning using the JL-lemma",
+    "addedAt": "2026-01-10T17:12:14.473Z"
   }
 }
