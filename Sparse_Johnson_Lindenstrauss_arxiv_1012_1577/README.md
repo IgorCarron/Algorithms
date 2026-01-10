@@ -13,7 +13,7 @@ We give two different and simple constructions for dimensionality reduction in $
 
 ## Description
 
-Implementation of sparse Johnson-Lindenstrauss transforms with graph and block constructions that achieve O(ε^-1 log(1/δ)) sparsity
+Implementation of sparse Johnson-Lindenstrauss transforms with block and graph constructions achieving O(ε^-1 log(1/δ)) sparsity
 
 ## Implementation
 
@@ -33,6 +33,3 @@ See [`Sparse_Johnson_Lindenstrauss_arxiv_1012_1577.py`](./Sparse_Johnson_Lindens
 
 ![Figure 3](./figures/figure_3.png)
 
----
-
-*Generated with [Arxiv to Code](https://github.com/IgorCarron/arxiv-to-code)*
