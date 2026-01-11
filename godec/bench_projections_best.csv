@@ -1,0 +1,4 @@
+video,pixels,blas_projection,blas_seconds,noblas_projection,noblas_seconds
+demo.avi,69120,rademacher,0.0016586999990977347,block_sparse,0.0016319999704137444
+forbiggerblazes.mp4,27648000,sparse_jl,1.110091399983503,sparse_jl,1.1699208000209183
+highway.mpg,2304000,sparse_jl,0.08632929995656013,sparse_jl,0.09057140001095831
